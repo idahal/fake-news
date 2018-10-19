@@ -9,8 +9,35 @@ declare(strict_types=1);
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="main.css">
         <title></title>
     </head>
     <body>
-    </body>
+
+      <div class="wrapper">
+      <header>
+        <h1>Fake News</h1>
+      </header>
+
+      <div class="navbar">
+        <ul>
+        <li><a href="#">News</a></li>
+        <li><a href="#">Jobs</a></li>
+        <li><a href="#">Contact</a></li>
+        </ul>
+      </div> <!--navbar-->
+
+      <main>
+        <div class="article">
+            
+        </div> <!--article-->
+
+      </main>
+
+    </div> <!--End of wrapper-->
+    <div class="footer">
+
+    </div> <!--footer-->
+</body>
 </html>
+
