@@ -1,5 +1,7 @@
-# Fake-news
-PHP news feed assignment
+# Fake-News assignment
+My first PHP hand-in assignment. I have created a news feed site using PHP, HTML and CSS.
+
+![GIF](https://media.giphy.com/media/4KFH8kY8SpT40q5igm/giphy.gif)
 
 # Checklist
 Create data.php with data X
@@ -10,6 +12,6 @@ Create function to display news order by date x
 <br>
 Create editconfig file
 
-
 # Testers:
+
 
