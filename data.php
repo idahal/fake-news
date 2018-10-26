@@ -22,7 +22,7 @@ declare(strict_types=1);
           'date' => '05/16/2017',
           'img'=> 'https://images.unsplash.com/photo-1517292987719-0369a794ec0f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=79cbb47c2fa1dab8479b31a61567638a&auto=format&fit=crop&w=600&q=60',
           'article' => "The police catch the image of one of the robbers. Raquel suspects the gentle gentleman she met in the bar.",
-          'like' => '5'
+          'like' => '25'
         ],
         [
           'title' =>'Imprudencias letales',
@@ -44,8 +44,8 @@ declare(strict_types=1);
           'date' => '05/23/2017',
           'img'=> 'https://images.unsplash.com/photo-1521798465888-a81a85e00ed7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1c06286f809f98da062fdd045ba2cf9f&auto=format&fit=crop&w=600&q=60',
           'article' => "Raquel is adversely affected by a personal crisis with her ex-husband. The hostages are afraid of the sound of gunshots they heard. Thieves argue among themselves.",
-          'like' => '17'
-        ],
+          'like' => '17',
+          ],
         [
           'title' =>'La cálida Guerra Fría',
           'author' =>[
@@ -55,8 +55,8 @@ declare(strict_types=1);
           'date' => '06/06/2017',
           'img'=> 'https://images.unsplash.com/photo-1476242906366-d8eb64c2f661?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=56490213cac9e45b868b625a4f143eeb&auto=format&fit=crop&w=600&q=60',
           'article' => "The problems inside and outside the National Currency and Stamp Factory are growing. The biggest robbery in history does not allow any mistakes and each time, the tension and fear is rising. What opportunities are there for everything to go well?",
-          'like' => '2'
-        ],
+          'like' => '28',
+          ],
         [
           'title' =>'El día de la marmota',
           'author' =>[
@@ -114,4 +114,3 @@ declare(strict_types=1);
         ],
       ];
 ?>
-
