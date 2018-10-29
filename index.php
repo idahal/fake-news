@@ -58,7 +58,7 @@ usort($news, "sortFunction");
               <div class="card-header"><?php echo "Article by " . $name . "." . "<br>" . " Published: " . $date ?></div>
               <div class="card-body">
                 <h4 class="card-title"><?php echo $title ?></h4>
-                <p class="card-text"><?php echo $article?><a href="#"> Read more</a></p>
+                <p class="card-text"><?php echo $article?><a href="readmore.php"> Read more</a></p>
                 <img style="height: 300px; width: 100%; display: block;" src="<?php echo $image ?>" alt="Card image">
                 <br>
                 <button type="button" class="btn btn-outline-success">💚 <?php echo $like?></button>
