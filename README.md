@@ -8,7 +8,7 @@ My first PHP hand-in assignment. I have created a news feed site using PHP, HTML
 ### Features
 
 * getMax. A function so that you fast can se which of the news who is the most popular.
-* sortFunction. A functionto sort the articles by date so you get the latest news first and don`t missed out 
+* sortFunction. A function to sort the articles by date so you get the latest news first and don`t missed out 
 of any fake news.
 
 ### Installing
