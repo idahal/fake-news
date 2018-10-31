@@ -1,3 +1,7 @@
+<?php
+declare(strict_types=1);
+?>
+
 <!---footer-->
 <div class="footer">
 		<div class="footer_box1">
