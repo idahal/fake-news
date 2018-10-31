@@ -8,9 +8,9 @@ My first PHP hand-in assignment. I have created a news feed site using PHP, HTML
 
 ### Installing
 
-* Start by get a copy of the project by clone down the projekt to your local computer: 
-	git clone https://github.com/idahal/fake-news.git
-* Start your server
+* Start by get a copy of the repo: 
+	* git clone https://github.com/idahal/fake-news.git
+* Start your local web server, for exampel MAMP. 
 * Open the index.php file in your favorite browser.
 * Enjoy
 
